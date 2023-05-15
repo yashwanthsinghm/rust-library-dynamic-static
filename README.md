@@ -37,7 +37,9 @@ yashwanthsingh@Yashwanths-MacBook-Pro application % cargo run
 Running from main application
 Starting App
 1. Running from  dymanic library
-Running dymanic library calling static libray 
+ subtraction 8,5 =3
+ subtraction 3,10 = -7
+2. Running dymanic library calling static libray 
 res of addition 3,5 =8
 3. Running from static library in application
 res of addition 1,2 =3
