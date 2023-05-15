@@ -1,1 +1,0 @@
-{"rustc":3713166086825955788,"features":"[]","target":5046304036370787860,"profile":11506243869495082934,"path":17523903030608720598,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/dynamiclib-65373c0028a42d88/dep-test-lib-dynamiclib"}}],"rustflags":["-C","prefer-dynamic","-C","rpath"],"metadata":2238069891877253829,"config":2202906307356721367,"compile_kind":0}
