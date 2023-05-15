@@ -1,0 +1,2 @@
+cargo:rustc-link-search=../staticlib1/target/debug
+cargo:rustc-link-search=../staticlib1/target/debug/deps

@@ -1,0 +1,1 @@
+/Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/application/target/debug/application: /Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/application/build.rs /Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/application/src/main.rs

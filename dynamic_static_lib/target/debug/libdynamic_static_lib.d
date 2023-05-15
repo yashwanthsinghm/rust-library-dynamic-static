@@ -1,0 +1,1 @@
+/Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/dynamic_static_lib/target/debug/libdynamic_static_lib.rlib: /Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/dynamic_static_lib/build.rs /Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/dynamic_static_lib/src/lib.rs

@@ -1,0 +1,1 @@
+/Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/dynamiclib/target/debug/libdynamiclib.dylib: /Users/yashwanthsingh/Yash/Projects/qnx/rust-library-dynamic-static/dynamiclib/src/lib.rs
